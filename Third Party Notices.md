@@ -30,9 +30,9 @@ Inspired by existing libraries made by community members.
 
 Based on:
 
-- [eosio-core](https://github.com/greymass/eosio-core) - [License](https://github.com/greymass/eosio-core/blob/master/LICENSE)
+- [greymass/eosio-core](https://github.com/greymass/eosio-core) - [License](https://github.com/greymass/eosio-core/blob/master/LICENSE)
 - [eos](https://developers.eos.io/manuals/eos)
-- [eosjs](https://github.com/EOSIO/eosjs) - [License](https://github.com/EOSIO/eosjs/blob/master/LICENSE)
+- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - [License](https://github.com/EOSIO/eosjs/blob/master/LICENSE)
 
 Inspired by:
 
