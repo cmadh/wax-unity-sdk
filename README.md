@@ -101,4 +101,4 @@ The examples are available at **Assets/Plugins/EosUnity/Example**
 
 ## Credits
 
-Check the [Third Party Notices](Third Party Notices.md) for more information.
+Check the [Third Party Notices](https://github.com/WAX-SDK-wax-labs-proposal/wax-unity-sdk/blob/main/Third%20Party%20Notices.md) for more information.
