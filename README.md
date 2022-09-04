@@ -12,8 +12,8 @@ This package includes base implementation for EOSIO blockchain and several other
 As this repo is pre packaging into managed Dlls you are required to install a number of libraries in order for the
 SDK to function, please install the following packages in the following order using the package manager within Unity as the installer window is added during the packaging stage.
 
-- [BouncyCastle](https://www.bouncycastle.org/csharp/index.html) (included with package)
-- [ZXing.NET](https://github.com/micjahn/ZXing.Net) (included with package)
+- [BouncyCastle](https://www.bouncycastle.org/csharp/index.html)
+- [ZXing.NET](https://github.com/micjahn/ZXing.Net)
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [Newtonsoft.Json](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@latest) `com.unity.nuget.newtonsoft-json`
 - [NativeWebSocket](https://github.com/endel/NativeWebSocket)
